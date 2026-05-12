@@ -1,146 +1,102 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+# 🎙️ TechWave - Podcast Landing Page
+
+A premium, modern, and fully responsive podcast landing page designed for tech enthusiasts, developers, and lifelong learners. This project features a clean UI with vibrant gradients and smooth interactions, built using the latest web technologies.
 
 ---
 
-📅 Deadline For 60 marks: 20th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 50 marks: 21th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 30 marks: Any time after 21th January.
-
-# TechWave - Podcast Website
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
+## 🚀 Live Demo
+https://khalid-sifullah-siam.github.io/Assignment-02
 
 ---
 
-## 📌 Assignment Requirements
-
-### ✅ Main Requirements (50 Marks)
-
-### Navbar
-
-- **Desktop/Laptop/Large Device:**
-  - Logo on the Left
-  - Menu Items in the Center (like Figma design)
-  - Gradient Button on the Right
-- **Mobile Device:**
-  - Hidden nav items with hamburger menu icon
-  - Fully responsive navigation
-
-### Banner Section
-
-- **Desktop/Laptop/Large Device:**
-  - Background Image
-  - Center-aligned podcast circle view with visual effects
-  - Relevant heading and descriptive text at center
-  - Two call-to-action buttons below the text
-- **Mobile Device:**
-  - Mobile responsive layout matching Figma design
-
-
-### About Section
-
-- **Desktop/Laptop/Large Device:**
-  - Heading with descriptive text at the top
-  - 4 statistics items displayed in a row with proper styling
-- **Mobile Device:**
-  - 4 statistics items responsive layout (2x2 grid stacked on mobile)
-
-### Why Choose Section
-
-- **Desktop/Laptop/Large Device:**
-  - 5 feature cards layout matching Figma design
-  - Each card contains: icon, title, and description
-- **Mobile Device:**
-  - Fully responsive card layout
-  - Single column layout on mobile devices
-
-### Featured Episodes Section
-
-- **Desktop/Laptop/Large Device:**
-  - 3 featured episode cards layout
-  - Each card includes: title, description, and duration
-  - YouTube video links embedded in cards
-- **Mobile Device:**
-  - Responsive card layout for mobile devices
-
-### Footer Section
-
-- **Desktop/Laptop/Large Device:**
-  - Center-aligned layout with brand and platform information
-  - Copyright information with horizontal line separator
-- **Mobile Device:**
-  - Responsive footer layout maintaining readability
+## ✨ Key Features
+- 📱 **Fully Responsive:** Optimized for mobile, tablet, and desktop screens.
+- 🎨 **Modern UI/UX:** Built with Tailwind CSS v4, featuring custom gradients and glassmorphism effects.
+- 🎬 **Video Integration:** Embedded YouTube episodes for a seamless viewing experience.
+- ⚡ **Interactive Elements:** Smooth hover animations, scale effects, and a rotating hero element.
+- 🖋️ **Premium Typography:** Clean look using the "Inter" Google Font for better readability.
+- 🧭 **Responsive Navbar:** Includes a functional layout for navigation and a call-to-action button.
 
 ---
 
-## 🚀 CHALLENGES (10 Marks)
-
-### Host Section
-
-- **Desktop/Laptop/Large Device:**
-  - Image on the left with host name, biography, and social media icons
-  - Professional layout with proper alignment
-- **Mobile Device:**
-  - Responsive layout with stacked design for mobile view
-
-### Additional Challenges
-
-- Implement smooth animations on any buttons or sections for enhanced user experience
-- Minimum 5 commits on GitHub with meaningful commit messages
-- No Lorem Ipsum content - use relevant, meaningful text
-- "New" badge in the podcast circle view positioned exactly as per Figma design
+## 🛠️ Technologies Used
+- **HTML5:** For semantic markup and structure.
+- **Tailwind CSS (v4):** For utility-first styling and rapid UI development.
+- **Google Fonts:** Specifically the "Inter" font family.
+- **YouTube Embed API:** To display featured podcast episodes.
 
 ---
 
-### Responsive Breakpoints
+## 📂 Folder Structure
+```text
+├── assets/          # Images, icons, and background patterns
+├── index.html       # Main HTML structure
+└── README.md        # Project documentation
 
-- **Small device:** up to 576 px 
-- **Medium Device:** 576px to 992 px (Optional)
-- **Large Device:** above 992 px 
 
+Markdown
+# 🎙️ TechWave - Podcast Landing Page
 
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3/Tailwind CSS
-- No JavaScript
+A premium, modern, and fully responsive podcast landing page designed for tech enthusiasts, developers, and lifelong learners. This project features a clean UI with vibrant gradients and smooth interactions, built using the latest web technologies.
 
 ---
 
-## ✅ Submission Checklist
-
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Each Section are responsive with proper breakpoints
-- Live site deployed
-- Public GitHub repository
+## 🚀 Live Demo
+[Insert your live link here, e.g., Vercel or Netlify link]
 
 ---
 
-## 📂 Submission Format
-
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
+## ✨ Key Features
+- 📱 **Fully Responsive:** Optimized for mobile, tablet, and desktop screens.
+- 🎨 **Modern UI/UX:** Built with Tailwind CSS v4, featuring custom gradients and glassmorphism effects.
+- 🎬 **Video Integration:** Embedded YouTube episodes for a seamless viewing experience.
+- ⚡ **Interactive Elements:** Smooth hover animations, scale effects, and a rotating hero element.
+- 🖋️ **Premium Typography:** Clean look using the "Inter" Google Font for better readability.
+- 🧭 **Responsive Navbar:** Includes a functional layout for navigation and a call-to-action button.
 
 ---
+
+## 🛠️ Technologies Used
+- **HTML5:** For semantic markup and structure.
+- **Tailwind CSS (v4):** For utility-first styling and rapid UI development.
+- **Google Fonts:** Specifically the "Inter" font family.
+- **YouTube Embed API:** To display featured podcast episodes.
+
+---
+
+## 📂 Folder Structure
+```text
+├── assets/          # Images, icons, and background patterns
+├── index.html       # Main HTML structure
+└── README.md        # Project documentation
+⚙️ Getting Started
+Follow these steps to run the project locally:
+
+Clone the repository:
+
+Bash
+git clone [https://github.com/your-username/techwave-podcast.git](https://github.com/your-username/techwave-podcast.git)
+Navigate to the project folder:
+
+Bash
+cd techwave-podcast
+Open the project:
+Simply open index.html in your favorite web browser or use a "Live Server" extension in VS Code.
+
+📸 Screenshots
+(Add a preview of your amazing design here)
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+👨‍💻 Author
+Khalid Sifullah Siam
+
+GitHub: https://github.com/Khalid-Sifullah-Siam
+
+LinkedIn: https://www.linkedin.com/in/khalid-sifullah-siam?trk=contact-info
+
+📄 License
+This project is MIT licensed.
+
+⭐️ If you found this project helpful, please give it a star!https://github.com/Khalid-Sifullah-Siam/Assignment-02-siam2/blob/d120de459ca618c1f3ad28552104d0dd6889a85c/README.md
